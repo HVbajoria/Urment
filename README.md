@@ -39,12 +39,12 @@ The tax payment process involves a lot of manual effort which includes recording
 * The application will also store the current MRP of different commodities which will be cross-checked with the bill uploaded by the buyer to alert them in case they are overpriced for a commodity. This will protect the rights of a customer and the necessary action can be taken by the consumer cell if needed.
 
 ## Tech Stack :
-* Kotlin to build the mobile application.
-* React, Javascript, CSS to build the website.
-* Algorand to deploy the backend with smart contracts and blockchain for transparency, low cost and security.
-* Microsoft Azure services to host the website and mobile application.
-* MongoDB database to store and manage the data which is uploaded, processed in relational databases.
-* Microsoft Power BI platform to generate reports, charts and analyze data.
+* **Kotlin** to build the mobile application.
+* **React, Javascript, CSS** to build the website.
+* **Algorand** to deploy the backend with smart contracts and blockchain for transparency, low cost and security.
+* **Microsoft Azure** services to host the website and mobile application.
+* **MongoDB database** to store and manage the data which is uploaded, processed in relational databases.
+* **Microsoft Power BI platform** to generate reports, charts and analyze data.
 
 ## Methodology :
 The interface for everyone (buyer or seller) will be the same. The interface will include :
