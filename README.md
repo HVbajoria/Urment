@@ -70,8 +70,10 @@ The interface for government officials will be more secured, logically distribut
 
 The application will work the following way inside :
 <p align="center">
-<img src="https://github.com/HVbajoria/Urment/blob/main/Methodolgy.png" width="650" alt="accessibility text" >
+<img src="https://github.com/HVbajoria/Urment/blob/main/Methodology.png" width="650" alt="accessibility text" >
   </p>
+
+## Demo Video Link : https://youtu.be/rcG4fPvG8ck 
 
 ## Social Impact / Novelty :
 This application will revolutionize the whole world. It will change the topics taught in business schools, change the way business takes place, make the payment of taxes more hassle-free, fast and secure.
