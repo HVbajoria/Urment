@@ -8,14 +8,16 @@
 Innovation_Redefined</br>
 
 ## Member details : </br>
-**Full Name** : Harshavardhan Bajoria</br>
+**Member 1 Name** : Harshavardhan Bajoria</br>
+
+**Member 2 Name** : Harsh Tita
 
 **Country of Residence** : India</br>
 
 **Experience Level** : Student</br>
 
-## Team Track :
-Novice
+## Team Sub Theme:
+Emerging Tech
 
 ## Theme : 
 Designing a blockchain application to revolutionize the whole tax payment system around the globe.
@@ -73,7 +75,7 @@ The application will work the following way inside :
 <img src="https://github.com/HVbajoria/Urment/blob/main/Methodology.png" width="650" alt="accessibility text" >
   </p>
 
-## Demo Video Link : https://youtu.be/rcG4fPvG8ck 
+## Demo Video Link : https://youtu.be/5y5ftcs9pRc 
 
 ## Social Impact / Novelty :
 This application will revolutionize the whole world. It will change the topics taught in business schools, change the way business takes place, make the payment of taxes more hassle-free, fast and secure.
