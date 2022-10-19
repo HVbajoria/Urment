@@ -10,8 +10,6 @@ Innovation_Redefined</br>
 ## Member details : </br>
 **Member 1 Name** : Harshavardhan Bajoria</br>
 
-**Member 2 Name** : Harsh Tita
-
 **Country of Residence** : India</br>
 
 **Experience Level** : Student</br>
